@@ -24,7 +24,7 @@ Sou Luiz Vianna, a baixo vai um pouco sobre mim !
 <br>
 <br>
 <br>
-<a href= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
+<a href= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>  @luizzvianna_
 <br>
 <br>
 OBS : Iniciando projetos em HTML, CSS e começando estudar Java Script e React.
