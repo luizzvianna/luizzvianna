@@ -8,7 +8,7 @@ Sou Luiz Vianna, a baixo vai um pouco sobre mim !
 📚 GESTÃO PÚBLICA
 <br>
 <br>
-🖥️ ESTUDANDO PROGRAMAÇÃO
+🖥️ ESTUDANDO PROGRAMAÇÃO DO ZERO!
 <br>
 <br>
 🔰 SUPERVISOR FISCAL @iintecnologias (COSI)
